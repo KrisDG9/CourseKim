@@ -1,7 +1,3 @@
-#Load data
-
-library(tidyverse)
-
 #Q: Do cars with big engines use more fuel than cars with small engines?
 
 mpg #show the dataframe (displ = engine size; hwy = fuel efficiency)
